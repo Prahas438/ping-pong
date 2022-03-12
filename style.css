@@ -1,0 +1,39 @@
+body
+{
+  text-align: center;
+  color:aliceblue;
+}
+.heading{
+    width:100%;
+    text-align:left;
+}
+.heading h3{
+  display: inline;
+}
+.heading button{
+    float:right;
+    border: 1px solid white;
+}
+#start,#status,#restart{
+    font-size: 23px;
+}
+h4{
+    background-color: aliceblue;
+    line-height: 2;
+    margin: 0px;
+}
+.modal-dialog{
+    width: 90%;
+}
+.copy_right_footer{
+    color: aliceblue;
+    line-height: 3;
+    width: 100%;
+    text-align: center;
+    bottom:0;
+}
+canvas{
+  box-shadow: 5px 5px 5px aqua;
+  border-radius: 10px;
+  border: 5px solid aquamarine;
+}
